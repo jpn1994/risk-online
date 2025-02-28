@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jpn1994.github.io/risk-online/static/css/main.97e13b33.css",
-    "main.js": "/jpn1994.github.io/risk-online/static/js/main.781f332e.js",
-    "index.html": "/jpn1994.github.io/risk-online/index.html",
-    "main.97e13b33.css.map": "/jpn1994.github.io/risk-online/static/css/main.97e13b33.css.map",
-    "main.781f332e.js.map": "/jpn1994.github.io/risk-online/static/js/main.781f332e.js.map"
+    "main.css": "/risk-online/static/css/main.97e13b33.css",
+    "main.js": "/risk-online/static/js/main.fe53ce8b.js",
+    "index.html": "/risk-online/index.html",
+    "main.97e13b33.css.map": "/risk-online/static/css/main.97e13b33.css.map",
+    "main.fe53ce8b.js.map": "/risk-online/static/js/main.fe53ce8b.js.map"
   },
   "entrypoints": [
     "static/css/main.97e13b33.css",
-    "static/js/main.781f332e.js"
+    "static/js/main.fe53ce8b.js"
   ]
 }
