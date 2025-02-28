@@ -1,7 +1,7 @@
 {
   "name": "sub-risk",
   "version": "0.1.0",
-  "homepage": "https://[your-github-username].github.io/risk-online",
+  "homepage": "https://jpn1994.github.io/risk-online",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -9,7 +9,11 @@
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.1",
     "d3": "^7.8.5",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "socket.io-client": "^4.7.2",
+    "axios": "^1.6.2",
+    "react-router-dom": "^6.20.0",
+    "jwt-decode": "^3.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
